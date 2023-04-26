@@ -4,9 +4,9 @@
 <a target="_blank" align="center">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
-⦿ 💬 Estudiante de la carrera de Ingeniería de Sistemas Computacionales en la **Universidad Privada del Norte**<br>
-⦿ 🌏 Vivo actualmente en **la ciudad de Cajamarca, Perú**<br>
-⦿ 💻 Enfocado en aprender **Software Developer y Desarrollo Web.**
+⦿ 💬 Estudiante de la carrera de Ingeniería de Sistemas Computacionales en la <strong>Universidad Privada del Norte</strong><br>
+⦿ 🌏 Vivo actualmente en <strong>la ciudad de Cajamarca, Perú</strong><br>
+⦿ 💻 Enfocado en aprender <strong>Software Developer y Desarrollo Web.</strong><br>
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
