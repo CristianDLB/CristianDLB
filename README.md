@@ -10,7 +10,7 @@
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-      		<a target="_blank" style="margin-left: 10px;" target="_blank" href="https://twitter.com/cristiandlb16">
+      		<a target="_blank" style="margin-left: 10px;" target="_blank" href="https://twitter.com/cristiandlb_">
 			<img target="_blank" src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
       <a target="_blank" style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/david.leyva16/">
 			<img target="_blank" src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
